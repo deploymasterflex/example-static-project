@@ -1,0 +1,10 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font: 400 16px/1.5 system-ui, sans-serif;
+  text-align: center;
+}
